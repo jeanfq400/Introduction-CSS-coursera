@@ -1,0 +1,30 @@
+header{
+	background-color: #b3b3b3;
+}
+
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	color: #ffffff;
+}
+
+a:link{
+	color: #000000;
+}
+
+a:visited{
+	color: #0000ff;
+}
+
+aside{
+	display: none;
+}
+
+section{
+	background-color: #f0f8ff;
+}
+
+h2{
+	color: #9400D3;
+	text-transform: uppercase;
+}
