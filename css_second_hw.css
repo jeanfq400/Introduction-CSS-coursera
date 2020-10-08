@@ -1,6 +1,7 @@
 /* Review criteria
 less 
-You will review each submission based on whether each objective/style is achieved or not, and at what level. (For instance, did they put in background-color and if so, did they use hexadecimal or rgb.)
+You will review each submission based on whether each objective/style is achieved or not, and at what level. 
+(For instance, did they put in background-color and if so, did they use hexadecimal or rgb.)
 
 Specifically, you will use evaluate submissions by answering the following questions:
 
@@ -29,7 +30,8 @@ The link to the current page should be styled differently from the other links (
 
 The sections should be next to each other, not one on top of the other.
 
-The images should be part of the page now. In addition, they should have a border, be centered horizontally, and have vertical (top/bottom) space between them and the other images. */
+The images should be part of the page now. In addition, they should have a border, be centered horizontally, and have vertical 
+(top/bottom) space between them and the other images. */
 
 body{
 
